@@ -1,1 +1,1 @@
-# Machine-learning-algorithms
+# Machine Learning notebooks
